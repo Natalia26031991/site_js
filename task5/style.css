@@ -1,0 +1,22 @@
+body {
+    font-size: 50px;
+    text-align: center;
+    }
+
+label {
+    text-align: center;
+    color: Navy;
+    font-family: Arial;
+ }
+
+p {
+   text-align: center;
+   color: Navy;
+   font-family: Arial;
+}
+
+button {
+   text-align: center;
+   color: Navy;
+   font-family: Arial;
+}
